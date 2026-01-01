@@ -165,15 +165,6 @@ MSR-V sits **above** LLMs — not competing with them.
 
 ---
 
-## Project Structure
-
-```
-msrv/
-├── src/msrv/           # Core engine (proprietary)
-├── docs/               # Architecture & philosophy
-└── README.md
-```
-
 **Note**: The proprietary core is not included in public releases.  
 Use the [public demo](https://github.com/ChanKi-arch/msrv-public-demo) for evaluation.
 
