@@ -1,5 +1,10 @@
 # MSR-V White Engine
 
+> 📌 **Public Demo Repository**  
+> The official IP-safe MSR-V demo is available here:  
+> 👉 https://github.com/ChanKi-arch/MSRV-WHITE-GOVERNANCE/releases
+
+
 <p align="center">
   <strong>87% Cost Reduction · 0.29ms Latency · 100% Safety Gating</strong><br>
   Deterministic reasoning governance for LLM systems
